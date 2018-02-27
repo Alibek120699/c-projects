@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\c# projects\lab3farmngr\lab3farmngr\bin\Debug\lab3farmngr.exe.config
+C:\Users\HP\Desktop\c# projects\lab3farmngr\lab3farmngr\bin\Debug\lab3farmngr.exe
+C:\Users\HP\Desktop\c# projects\lab3farmngr\lab3farmngr\bin\Debug\lab3farmngr.pdb
+C:\Users\HP\Desktop\c# projects\lab3farmngr\lab3farmngr\obj\Debug\lab3farmngr.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# projects\lab3farmngr\lab3farmngr\obj\Debug\lab3farmngr.exe
+C:\Users\HP\Desktop\c# projects\lab3farmngr\lab3farmngr\obj\Debug\lab3farmngr.pdb

@@ -1,0 +1,29 @@
+123   no
+12   no
+12   no
+12   no
+456   no
+789   no
+16    yes
+8    yes
+45   no
+24   no
+128
+    yes
+56   no
+64    yes
+32    yes
+56   no
+59   no
+87   no
+1    yes
+4
+    yes
+45
+   no
+64    yes
+2    yes
+4    yes
+32
+    yes
+34   no

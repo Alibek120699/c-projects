@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\c# projects\lab2(2)n\lab2(2)n\bin\Debug\input.txt
+C:\Users\HP\Desktop\c# projects\lab2(2)n\lab2(2)n\bin\Debug\output.txt
+C:\Users\HP\Desktop\c# projects\lab2(2)n\lab2(2)n\bin\Debug\lab2(2)n.exe.config
+C:\Users\HP\Desktop\c# projects\lab2(2)n\lab2(2)n\bin\Debug\lab2(2)n.exe
+C:\Users\HP\Desktop\c# projects\lab2(2)n\lab2(2)n\bin\Debug\lab2(2)n.pdb
+C:\Users\HP\Desktop\c# projects\lab2(2)n\lab2(2)n\obj\Debug\lab2(2)n.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# projects\lab2(2)n\lab2(2)n\obj\Debug\lab2(2)n.exe
+C:\Users\HP\Desktop\c# projects\lab2(2)n\lab2(2)n\obj\Debug\lab2(2)n.pdb

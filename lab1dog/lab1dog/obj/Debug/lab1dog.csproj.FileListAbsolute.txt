@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\c# projects\lab1dog\lab1dog\bin\Debug\lab1dog.exe.config
+C:\Users\HP\Desktop\c# projects\lab1dog\lab1dog\bin\Debug\lab1dog.exe
+C:\Users\HP\Desktop\c# projects\lab1dog\lab1dog\bin\Debug\lab1dog.pdb
+C:\Users\HP\Desktop\c# projects\lab1dog\lab1dog\obj\Debug\lab1dog.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\c# projects\lab1dog\lab1dog\obj\Debug\lab1dog.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# projects\lab1dog\lab1dog\obj\Debug\lab1dog.exe
+C:\Users\HP\Desktop\c# projects\lab1dog\lab1dog\obj\Debug\lab1dog.pdb

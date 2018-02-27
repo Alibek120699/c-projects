@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\c# projects\lab4dogser\lab4dogser\bin\Debug\lab4dogser.exe.config
+C:\Users\HP\Desktop\c# projects\lab4dogser\lab4dogser\bin\Debug\lab4dogser.exe
+C:\Users\HP\Desktop\c# projects\lab4dogser\lab4dogser\bin\Debug\lab4dogser.pdb
+C:\Users\HP\Desktop\c# projects\lab4dogser\lab4dogser\obj\Debug\lab4dogser.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\c# projects\lab4dogser\lab4dogser\obj\Debug\lab4dogser.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# projects\lab4dogser\lab4dogser\obj\Debug\lab4dogser.exe
+C:\Users\HP\Desktop\c# projects\lab4dogser\lab4dogser\obj\Debug\lab4dogser.pdb

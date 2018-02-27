@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\c# projects\lab2letter\lab2letter\bin\Debug\input.txt
+C:\Users\HP\Desktop\c# projects\lab2letter\lab2letter\bin\Debug\output.txt
+C:\Users\HP\Desktop\c# projects\lab2letter\lab2letter\bin\Debug\lab2letter.exe.config
+C:\Users\HP\Desktop\c# projects\lab2letter\lab2letter\bin\Debug\lab2letter.exe
+C:\Users\HP\Desktop\c# projects\lab2letter\lab2letter\bin\Debug\lab2letter.pdb
+C:\Users\HP\Desktop\c# projects\lab2letter\lab2letter\obj\Debug\lab2letter.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\c# projects\lab2letter\lab2letter\obj\Debug\lab2letter.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# projects\lab2letter\lab2letter\obj\Debug\lab2letter.exe
+C:\Users\HP\Desktop\c# projects\lab2letter\lab2letter\obj\Debug\lab2letter.pdb

@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\c# projects\lab1pollindrom\lab1pollindrom\bin\Debug\output.txt
+C:\Users\HP\Desktop\c# projects\lab1pollindrom\lab1pollindrom\bin\Debug\lab1pollindrom.exe.config
+C:\Users\HP\Desktop\c# projects\lab1pollindrom\lab1pollindrom\bin\Debug\lab1pollindrom.exe
+C:\Users\HP\Desktop\c# projects\lab1pollindrom\lab1pollindrom\bin\Debug\lab1pollindrom.pdb
+C:\Users\HP\Desktop\c# projects\lab1pollindrom\lab1pollindrom\obj\Debug\lab1pollindrom.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\c# projects\lab1pollindrom\lab1pollindrom\obj\Debug\lab1pollindrom.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# projects\lab1pollindrom\lab1pollindrom\obj\Debug\lab1pollindrom.exe
+C:\Users\HP\Desktop\c# projects\lab1pollindrom\lab1pollindrom\obj\Debug\lab1pollindrom.pdb
